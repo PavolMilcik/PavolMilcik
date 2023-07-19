@@ -6,9 +6,9 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PavolMilcik)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavolmilcik@gmail.com) 
 
-#### I’m currently working on: upskill myself :brain:
+**I’m currently working on: upskill myself** :brain:
 
-**I’m currently learning: Python, Git, ... :battery:**
+**I’m currently learning: Python, Git, ...** :battery:
 
 ##
 
