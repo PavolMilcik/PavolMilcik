@@ -8,7 +8,7 @@
 
 #### I’m currently working on: upskill myself :brain:
 
-#### I’m currently learning: Python, Git, ... :battery:
+**I’m currently learning: Python, Git, ... :battery:**
 
 ##
 
