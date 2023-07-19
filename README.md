@@ -4,7 +4,7 @@
 
 ## [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavol-mil%C4%8D%C3%ADk-422794170/)
 
-### - I’m currently working on: upskill myself :brain:
+#### - I’m currently working on: upskill myself :brain:
 
 ### - I’m currently learning: Python, Git ... :battery:
 
