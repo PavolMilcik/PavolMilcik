@@ -12,7 +12,7 @@
 
 ##
 
-## Sources from which I learn how to code.
+## Sources from which I learn how to code :technologist:
 
 These are the sources from which I learn how to become a programmer:
 
@@ -22,6 +22,8 @@ These are the sources from which I learn how to become a programmer:
 * [Learn2Code - Skillmea](https://skillmea.sk/)
 
 I extend my heartfelt gratitude to each of these sources for their invaluable contributions to my learning journey.[^1]
+
+##
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
