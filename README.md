@@ -14,12 +14,14 @@
 
 ## Sources from which I learn how to code.
 
-These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions[^1]:
+These are the sources from which I learn how to become a programmer:
 
 * **[Street of Code](https://streetofcode.sk/)**
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
 * [Yablko](https://www.youtube.com/@RobWebSK)
 * [Learn2Code - Skillmea](https://skillmea.sk/)
+
+I extend my heartfelt gratitude to each of these sources for their invaluable contributions to my learning journey.[^1]
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
