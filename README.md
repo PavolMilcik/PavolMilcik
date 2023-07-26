@@ -6,9 +6,9 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PavolMilcik)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavolmilcik@gmail.com) 
 
-### I’m currently working on: upskill myself :brain:
+#### I’m currently working on: upskill myself :brain:
 
-### I’m currently learning: Python, Git, ... :battery:
+#### I’m currently learning: Python, Git, ... :battery:
 
 ##
 
@@ -21,7 +21,6 @@ These are the sources from which I learn how to become a programmer, and to each
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
 * [Yablko](https://www.youtube.com/@RobWebSK)
 * [Learn2Code - Skillmea](https://skillmea.sk/)
-
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
