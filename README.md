@@ -21,10 +21,10 @@ These are the sources from which I learn how to become a computer programmer:
 * [Yablko](https://www.youtube.com/@RobWebSK)
 * [Learn2Code - Skillmea](https://skillmea.sk/)
 
-I extend my heartfelt gratitude to each of these sources for their invaluable contributions to my learning journey.[^1]
+I express my heartfelt gratitude to each of these sources for their invaluable contributions to my learning journey.[^1]
 
 ##
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
-[^1]: **This is an enhanced version of your sentence by ChatGPT-3.5.**
+[^1]: **This is an enhanced version of my sentence by ChatGPT-3.5.**
