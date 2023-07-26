@@ -12,10 +12,9 @@
 
 ##
 
-## Sources from which I learn.
-<sub>This is an enhanced version of your sentence by ChatGPT-3.5:</sub>
+## Sources from which I learn how to code.
 
-These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions:
+These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions[^1]:
 
 * **[Street of Code](https://streetofcode.sk/)**
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
@@ -24,3 +23,4 @@ These are the sources from which I learn how to become a programmer, and to each
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
+[^1]This is an enhanced version of your sentence by ChatGPT-3.5.
