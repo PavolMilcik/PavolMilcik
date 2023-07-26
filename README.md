@@ -12,9 +12,6 @@
 
 ##
 
-"***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* ##
-
-
 ## Sources from which I learn.
 <sub>This is an enhanced version of your sentence by ChatGPT-3.5:</sub>
 
@@ -24,4 +21,7 @@ These are the sources from which I learn how to become a programmer, and to each
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
 * [Yablko](https://www.youtube.com/@RobWebSK)
 * [Learn2Code - Skillmea](https://skillmea.sk/)
-  
+
+
+"***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
+
