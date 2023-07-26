@@ -17,9 +17,7 @@
 ## Sources
 <sub>This is an enhanced version of your sentence by ChatGPT-3.5:</sub>
 
-These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions.
-
-Sources: 
+These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions:
 * **[Street of Code](https://streetofcode.sk/)**
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
 * [Yablko](https://www.youtube.com/@RobWebSK)
