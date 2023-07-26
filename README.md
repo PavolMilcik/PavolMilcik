@@ -13,3 +13,12 @@
 ##
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.*
+
+##
+<sub>This is an enhanced version of your sentence by ChatGPT-3.5:</sub>
+These are the sources from which I learn how to become a programmer, and to each of them, I extend my heartfelt gratitude for their valuable contributions.
+Sources: 
+* *[Street of Code](https://streetofcode.sk/)*
+* **[Informatika s Misom](https://www.informatikasmisom.sk/)**
+* [Learn2Code - Skillmea](https://skillmea.sk/)
+* [Yablko](https://www.youtube.com/@RobWebSK)
