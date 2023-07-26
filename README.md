@@ -12,9 +12,9 @@
 
 ##
 
-## Sources from which I learn how to code :technologist:
+## Sources for how to write a code :technologist:
 
-These are the sources from which I learn how to become a programmer:
+These are the sources from which I learn how to become a computer programmer:
 
 * **[Street of Code](https://streetofcode.sk/)**
 * **[Informatika s Misom](https://www.informatikasmisom.sk/)**
