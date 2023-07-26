@@ -12,7 +12,7 @@
 
 ##
 
-## Sources for how to write a code :technologist:
+## Sources for - how to write a code :technologist:
 
 These are the sources from which I learn how to become a computer programmer:
 
