@@ -23,4 +23,4 @@ These are the sources from which I learn how to become a programmer, and to each
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
 
-[^1]: **This is an enhanced version of your sentence by ChatGPT-3.5**
+[^1]: **This is an enhanced version of your sentence by ChatGPT-3.5.**
