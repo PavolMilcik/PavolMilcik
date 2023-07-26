@@ -13,7 +13,6 @@
 ##
 
 "***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.*
-
 ##
 
 ## Sources from which I learn.
