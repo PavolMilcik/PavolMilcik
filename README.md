@@ -25,6 +25,6 @@ I express my heartfelt gratitude to each of these sources for their invaluable c
 
 ##
 
-"***Scio me nihil scire***"📖 *- each day brings the opportunity to learn something new, to upskill myself and to be better version of myself.* 
+"***Scio me nihil scire - I know that I know nothing.***"📖 *- Each day brings the opportunity to learn something new, upskill myself, and become a better version of myself.* 
 
 [^1]: **This is an enhanced version of my sentence by ChatGPT-3.5.**
