@@ -1,4 +1,4 @@
-# Hi, I am Pavol Milcik :nerd_face: Junior Python Developer :snake: 
+# Hi, I am Pavol Milcik :nerd_face: Junior Developer
 
 ## I´m searching for a job :desktop_computer:
 
