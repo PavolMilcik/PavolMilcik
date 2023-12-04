@@ -10,7 +10,7 @@
 
 #### I’m currently learning: Java :battery:
 
-#### Skills: Python, Git :books:
+#### Skills: Python, Git :pencil:
 
 ##
 
